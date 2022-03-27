@@ -4,4 +4,9 @@ Using our knowledge of Python, and using Google maps API. We are going to creat 
 
 See below pictures from one tester preference where the tempature is between 75 and 90 degrees.
 
-[image](https://github.com/gotica462/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+![image](https://github.com/gotica462/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+And here are our hotels 
+
+![image](https://github.com/gotica462/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
